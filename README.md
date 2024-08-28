@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋! I  am Momin A Khan</h1>
+<p  align="center">I am working as a WordPress Developer and have extensive
+experience with WordPress themes, plugins, and widgets. Well-versed in
+installing and configuring WordPress multisite. My academic background was in Statistics.</p>
 
 ###
 
