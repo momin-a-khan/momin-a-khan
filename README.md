@@ -6,12 +6,14 @@ installing and configuring WordPress multisite. My academic background was in St
 ###
 
 <br clear="both">
+
 <div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=momin-a-khan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=momin-a-khan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=momin-a-khan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
 
+</div>
 
 ###
 
